@@ -706,6 +706,15 @@ img.imagethumb2{
 	box-shadow:0 0 11px #666; -webkit-box-shadow:0 0 11px #666;
 	}
 
+	.nav.mobile {
+
+		margin-top: 30px;
+	
+	}
+
+	.nav.mobile ul li a{
+		font-weight: bold;
+	}
 /*============== Pricing Table =================*/
 .pricing_table_section{
 	float:left;
