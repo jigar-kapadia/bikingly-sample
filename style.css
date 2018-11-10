@@ -125,7 +125,9 @@ html, body{
 	float:left;
 	width:100%;
 	height:auto;
-	padding:46px 0 46px 0;
+	/* padding:46px 0 46px 0; */
+	padding:0 0 0 0;
+
 	}
 
 .header_fix{
