@@ -209,6 +209,14 @@ form.hpform input[type="submit"]{
 	
 
 @media (max-width: 900px){
+
+	.modal-content {
+		width: 870px !important;
+	}
+	#adImg{
+		width: 850px !important;
+		height: 1190px;
+	}
 .slider_main{
 	display:none;
 	}
@@ -399,5 +407,11 @@ a.button3, a.button4{
 	width:100%;
 	margin:10px 0 15px 0;
 	}
-	
+	.modal-content {
+		width: 340px !important;
+	}
+	#adImg{
+		width: 300px !important;
+		height: 600px;
+	}
 	}
