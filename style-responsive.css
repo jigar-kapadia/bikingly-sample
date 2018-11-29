@@ -23,12 +23,12 @@
 	float:none;
 	display:table;
 	width:auto;
-	margin:0 auto 10px auto;
+	margin:0 auto 10px 2px;
 	}
 
 .header{
 	float:left;
-	width:94%;
+	width:100%;
 	height:auto;
 	padding:20px 3% 20px 3%;
 	}
@@ -36,7 +36,7 @@
 .header_fix{
 	float:none;
 	position:fixed;
-	width:94%;
+	width: 100%;
 	padding:0 3% 0 3%;
 	}
 	
