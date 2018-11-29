@@ -416,7 +416,7 @@ a.button3, a.button4{
 	margin:10px 0 15px 0;
 	}
 	.modal{
-		
+			overflow-x: auto;
 			overflow-y:auto;
 		  
 	}
