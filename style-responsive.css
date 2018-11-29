@@ -1,4 +1,12 @@
 @media (max-width: 1200px){
+	
+	.modal-content {
+		width: 870px !important;
+	}
+	#adImg{
+		width: 850px !important;
+		height: 1190px;
+	}
 .container{
 	margin:0 0 0 0 !important;
 	width:100%;

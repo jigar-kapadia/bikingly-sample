@@ -1018,3 +1018,10 @@ form.hpform input[type="text"]:focus, form.hpform input[type="email"]:focus, for
 	text-decoration:none;
 	}
 	
+	.modal-dialog{
+		width: 700px !important;
+		}
+		
+		#adImg{
+			width: 660px;
+		}
