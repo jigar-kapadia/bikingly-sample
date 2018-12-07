@@ -1026,3 +1026,7 @@ form.hpform input[type="text"]:focus, form.hpform input[type="email"]:focus, for
 		#adImg{
 			width: 660px;
 		}
+body.modal-open {
+    overflow: hidden;
+    position: fixed;
+}
